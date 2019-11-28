@@ -4,7 +4,9 @@ git clone https://github.com/HMSBennett/DockerInstall
 
 cd DockerInstall
 
-./install.sh
+#./install.sh
+
+./modDockerUser.sh
 
 echo Build Image
 
